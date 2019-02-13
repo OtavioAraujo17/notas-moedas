@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\obj\Debug\notas e moedas.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\obj\Debug\notas e moedas.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\bin\Debug\notas e moedas.exe.config
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\bin\Debug\notas e moedas.exe
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\bin\Debug\notas e moedas.pdb
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\obj\Debug\notas e moedas.exe
+C:\Users\Otavio\Desktop\Nova pasta (2)\notas e moedas\notas e moedas\obj\Debug\notas e moedas.pdb
